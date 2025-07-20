@@ -1,4 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19961122&assignment_repo_type=AssignmentRepo)
+
 # Express.js RESTful API Assignment
 
 This assignment focuses on building a RESTful API using Express.js, implementing proper routing, middleware, and error handling.
@@ -6,6 +7,7 @@ This assignment focuses on building a RESTful API using Express.js, implementing
 ## Assignment Overview
 
 You will:
+
 1. Set up an Express.js server
 2. Create RESTful API routes for a product resource
 3. Implement custom middleware for logging, authentication, and validation
@@ -17,11 +19,14 @@ You will:
 1. Accept the GitHub Classroom assignment invitation
 2. Clone your personal repository that was created by GitHub Classroom
 3. Install dependencies:
-   ```
+
+   ```sh
    npm install
    ```
+
 4. Run the server:
-   ```
+
+   ```sh
    npm start
    ```
 
